@@ -5,3 +5,4 @@ test_Images
 *.jpg
 .DS_Store
 **/.DS_Store
+*.pyc
