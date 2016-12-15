@@ -9,4 +9,13 @@ A lot to be worked on. But it has some basic functionalities.
 To-Do:
 
 - Replace cos hash with pHash.
-- Improve scraping google images result.
+- Improve img url reconginiton
+
+
+
+### Version 1.1
+
+- Pulling more results from visually similar pictures page.
+
+
+

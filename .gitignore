@@ -1,0 +1,6 @@
+similar_Images
+test_Images
+*.png
+*.gif
+*.jpg
+.DS_Store
