@@ -4,3 +4,4 @@ test_Images
 *.gif
 *.jpg
 .DS_Store
+**/.DS_Store
