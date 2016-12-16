@@ -66,7 +66,7 @@ def main():
     http://7xqpdw.com1.z0.glb.clouddn.com/dchen.jpeg
     http://7xqpdw.com1.z0.glb.clouddn.com/feizao.png
     '''
-    url =  "http://7xqpdw.com1.z0.glb.clouddn.com/feizao.png"
+    url =  "http://photocdn.sohu.com/20151231/mp51708433_1451565460566_44.jpeg"
     path = "similar_Images"
     if not valid_url(url):
         print "Error: Not valid URL"

@@ -8,7 +8,7 @@ from PIL import Image
 EXTS = ['png', 'jpg', 'gif']
 total = 0
 
-master = Image.open('original_image.png')
+master = Image.open('original_image.jpg')
 master = master.resize((20, 20), Image.ANTIALIAS).convert('L')
 
 avg = reduce(lambda x, y: x + y, master.getdata()) / 400
